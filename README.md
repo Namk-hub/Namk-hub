@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Namrata  👋
 
-<!--
-**Namk-hub/Namk-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year Engineering Student  
+💻 Frontend Developer (learning phase but locked in)  
+🐍 Python Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- Currently learning **Frontend Development** (HTML, CSS, JavaScript)
+- Comfortable with **Python**
+- Interested in building clean, simple, user-friendly projects
+- Trying to be consistent > trying to be perfect (real growth mindset fr)
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code  
+- **Currently Exploring:** Frontend frameworks & better UI design  
+
+---
+
+## 🌱 Currently Learning
+- JavaScript deeper concepts  
+- Responsive web design  
+- Writing cleaner, readable code  
+
+✨ *Still learning. Still building. Still showing up.*  
