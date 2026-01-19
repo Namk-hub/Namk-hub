@@ -10,12 +10,12 @@
 - Currently learning **Frontend Development** (HTML, CSS, JavaScript)
 - Comfortable with **Python**
 - Interested in building clean, simple, user-friendly projects
-- Trying to be consistent > trying to be perfect (real growth mindset fr)
+- Trying to be consistent 
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, HTML, CSS, JavaScript  
+- **Languages:** Python, HTML, CSS,  
 - **Tools:** Git, GitHub, VS Code  
 - **Currently Exploring:** Frontend frameworks & better UI design  
 
