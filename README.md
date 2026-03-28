@@ -1,4 +1,4 @@
-# Hi, I'm Namrata  👋
+# Hi, I'm Nam 👋
 
 🎓 1st Year Engineering Student  
 💻 Frontend Developer (learning phase but locked in)  
