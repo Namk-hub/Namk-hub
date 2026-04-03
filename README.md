@@ -16,9 +16,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, HTML, CSS,  
+- **Languages:** Python, HTML, CSS, Javascript
 - **Tools:** Git, GitHub, VS Code  
-- **Currently Exploring:** Frontend frameworks & better UI design  
 
 ---
 
