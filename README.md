@@ -10,7 +10,8 @@
 - Currently learning **Frontend Development** (HTML, CSS, JavaScript)
 - Comfortable with **Python**
 - Interested in building clean, simple, user-friendly projects
-- Trying to be consistent 
+- Trying to be consistent
+  
 
 ---
 
@@ -22,7 +23,8 @@
 ---
 
 ## 🌱 Currently Learning
--backend in java script
--exploring CTF Challenges 
+- backend in Java script
+- exploring CTF challenges
+- exploring **open source** 
 
 ✨ *Still learning. Still building. Still showing up.*  
