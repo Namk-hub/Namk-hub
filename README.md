@@ -22,8 +22,7 @@
 ---
 
 ## 🌱 Currently Learning
-- JavaScript deeper concepts  
-- Responsive web design  
-- Writing cleaner, readable code  
+-backend in java script
+-exploring CTF Challenges 
 
 ✨ *Still learning. Still building. Still showing up.*  
