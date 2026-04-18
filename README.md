@@ -1,4 +1,4 @@
-# Hi, I'm Nam 👋
+# Hi, I'm Namrata 👋
 
 💻 Frontend Developer (learning phase but locked in)  
 🐍 Python Enthusiast  
