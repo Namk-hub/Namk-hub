@@ -1,13 +1,12 @@
 # Hi, I'm Nam 👋
 
-🎓 1st Year Engineering Student  
 💻 Frontend Developer (learning phase but locked in)  
 🐍 Python Enthusiast  
 
 ---
 
 ## 👩‍💻 About Me
-- Currently learning **Frontend Development** (HTML, CSS, JavaScript)
+- Currently learning **Backend Development** 
 - Comfortable with **Python**
 - Interested in building clean, simple, user-friendly projects
 - Trying to be consistent
@@ -22,8 +21,7 @@
 ---
 
 ## 🌱 Currently Learning
-- backend in Java script
-- exploring CTF challenges
+- backend in Javascript
 - exploring **open source** 
 
 ✨ *Still learning. Still building. Still showing up.*  
