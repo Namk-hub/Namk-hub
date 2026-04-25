@@ -1,10 +1,5 @@
 # Hi, I'm Namrata 👋
 
-💻 Frontend Developer (learning phase but locked in)  
-🐍 Python Enthusiast  
-
----
-
 ## 👩‍💻 About Me
 - Currently learning **Backend Development** 
 - Comfortable with **Python**
