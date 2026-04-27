@@ -1,12 +1,5 @@
 # Hi, I'm Namrata 👋
 
-## 👩‍💻 About Me
-- Comfortable with **Python**
-- Interested in building clean, simple, user-friendly projects
-- Trying to be consistent
-  
-
----
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, HTML, CSS, Javascript,node.js,express,mongodb
